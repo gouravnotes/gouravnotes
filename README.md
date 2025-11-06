@@ -40,5 +40,5 @@ I create software to solve problems, test ideas, and hopefully make things a lit
 
 <a href="https://www.buymeacoffee.com/gouravnotes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<a href="gouravnotes@proton.me"><img src="https://raw.githubusercontent.com/Gouravnotes/Gouravnotes/master/assets/bottom.gif" alt="Contact Me"></a>
+<a href="gouravnotes@proton.me"><img src="https://raw.githubusercontent.com/Gouravnotes/Gouravnotes/master/assets/bottom.gif" alt="Contact Me" style="height: 40px !important;width: 170px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a>
 Art by [mienar](https://mienar.com/)
