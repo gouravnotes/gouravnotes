@@ -1,10 +1,10 @@
 ![Banner](https://raw.githubusercontent.com/Gouravnotes/Gouravnotes/master/assets/main.gif)
-## Hey I'm Gourav 💾
+## Hey I'm Gourav ⚙️
 
 Hey, I’m Gourav — I work on ideas that sit somewhere between code, systems, and the things that don’t quite exist yet but feel like they should. I’ve spent time building tools, services, and experiments in areas like AI, automation, and backend systems, usually starting with a question and following it wherever it leads. Most of what I make ends up at [GouravNotes](https://gouravnotes.com), a quiet home for the projects and lessons collected along the way. I focus on work that stays useful in the background and shows its depth when it needs to.
 
 
-## ⚡ Technologies
+## ✨ Technologies
 I explore new tools, languages, and ideas to keep growing and stay adaptable. Here are some of the technologies I’ve worked with so far — each one taught me something, and there’s always more to learn.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white)
@@ -35,10 +35,10 @@ I explore new tools, languages, and ideas to keep growing and stay adaptable. He
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge&logo=rest&logoColor=white)
 
-## 💵 Support me
+## 🧧 Support me
 I create software to solve problems, test ideas, and hopefully make things a little easier for whoever needs them. If you’ve found something useful here and feel like supporting the work behind it, you’re welcome to do so. It means a lot, and it helps keep the ideas and experiments going.
 
-<a href="https://www.buymeacoffee.com/Gouravnotes" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/gouravnotes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <a href="gouravnotes@proton.me"><img src="https://raw.githubusercontent.com/Gouravnotes/Gouravnotes/master/assets/bottom.gif" alt="Contact Me"></a>
 Art by [mienar](https://mienar.com/)
