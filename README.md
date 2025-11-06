@@ -38,7 +38,7 @@ I explore new tools, languages, and ideas to keep growing and stay adaptable. He
 ## 🧧 Support me
 I create software to solve problems, test ideas, and hopefully make things a little easier for whoever needs them. If you’ve found something useful here and feel like supporting the work behind it, you’re welcome to do so. It means a lot, and it helps keep the ideas and experiments going.
 
-<a href="https://www.buymeacoffee.com/gouravnotes" target="_blank"><img src="https://raw.githubusercontent.com/Gouravnotes/Gouravnotes/master/assets/button.gif" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/gouravnotes" target="_blank"><img src="https://raw.githubusercontent.com/Gouravnotes/Gouravnotes/master/assets/button.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <a href="gouravnotes@proton.me"><img src="https://raw.githubusercontent.com/Gouravnotes/Gouravnotes/master/assets/bottom.gif" alt="Contact Me"></a>
 Art by [mienar](https://mienar.com/)
